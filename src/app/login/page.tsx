@@ -99,7 +99,7 @@ const LoginPage = () => {
               onClick={() =>
                 signIn("google", {
                   callbackUrl:
-                    "https://next-js-auth-shadman.vercel.app/dashboard",
+                    "https://next-js-auth-shadman-a1o3ugvry-shadman-sensation.vercel.app/dashboard",
                 })
               }
             >
@@ -115,7 +115,7 @@ const LoginPage = () => {
               onClick={() =>
                 signIn("github", {
                   callbackUrl:
-                    "https://next-js-auth-shadman.vercel.app/dashboard",
+                    "https://next-js-auth-shadman-a1o3ugvry-shadman-sensation.vercel.app/dashboard",
                 })
               }
             >
